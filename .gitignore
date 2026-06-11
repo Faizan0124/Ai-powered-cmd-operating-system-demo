@@ -1,0 +1,18 @@
+# Build Directories
+build/
+*.exe
+*.obj
+*.o
+
+# Log files and local data
+VFS_Storage/
+activity_logs.txt
+admin_activity.txt
+users.txt
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Configs
+.env
